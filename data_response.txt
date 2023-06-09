@@ -1,0 +1,45 @@
+Object { coord: {…}, weather: (1) […], base: "stations", main: {…}, visibility: 10000, wind: {…}, clouds: {…}, dt: 1683197177, sys: {…}, timezone: 10800, … }
+base: "stations"
+​
+clouds: Object { all: 0 }
+cod: 200
+​
+coord: Object { lon: 28.8575, lat: 47.0056 }
+dt: 1683197177
+id: 618426
+
+​
+main: Object { temp: 291.39, feels_like: 290.63, temp_min: 291.39, … }
+feels_like: 290.63
+humidity: 52
+pressure: 1023
+temp: 291.39
+temp_max: 291.39
+temp_min: 291.39
+
+<prototype>: Object { … }
+name: "Chișinău"
+​
+
+sys: Object { type: 1, id: 7022, country: "MD", … }
+country: "MD"
+id: 7022
+sunrise: 1683168304
+sunset: 1683220656
+type: 1
+
+<prototype>: Object { … }
+timezone: 10800
+visibility: 10000
+​
+weather: Array [ {…} ]
+0: Object { id: 800, main: "Clear", description: "clear sky", … }
+length: 1
+<prototype>: Array []
+​
+wind: Object { speed: 3.09, deg: 170 }
+deg: 170
+speed: 3.09
+<prototype>: Object { … }
+​
+<prototype>: Object { … }
